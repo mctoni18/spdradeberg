@@ -17,3 +17,8 @@ Die Veröffentlichung erfolgt über GitHub Pages unter spdradeberg.de.
 - Kabinettsmitglieder aktuell halten und offizielle Links nachprüfen.
 
 Stand 23.10.2026.
+
+## Neue Gebietskarte
+Amtliche Gemeindegrenzen aus den vom Nutzer bereitgestellten GeoSN-Daten, Stand 01.01.2025 (gem.shp). Die Polygone wurden lediglich für Webdarstellung vereinfacht. Alle vier Flächen sind anklickbar; verlinkt sind die offiziellen Websites. Keine externen Kacheln oder Karten-Tracker.
+
+Datenschutzerklärung vollständig aus Nutzerentwurf April 2025 übernommen; lediglich Hinweise zu GitHub Pages und FormSubmit angehängt. Im Original enthaltene YouTube-/Privacy-Shield-Passagen sind unverändert und vor Livegang auf Aktualität und tatsächliche Nutzung zu prüfen. Der zuvor eigens ergänzte Hinweis zu Verarbeitung außerhalb EU ist entfernt.
