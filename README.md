@@ -10,3 +10,5 @@ Formspree: https://formspree.io/f/xpppneqd
 - Laura Stellbrink: Wahlkreisbüro Bautzener Straße 1, 01877 Bischofswerda (laurastellbrink.de).
 - Kathrin Michel: Wahlkreisbüro Friedrichsstraße 13B, 02977 Hoyerswerda (michel-kathrin.de).
 - Kartenschriftzug Radeberg etwas nach links und oben.
+
+Änderung 07.11.2026: Hero-Motiv, SPD Büro Radeberg und Gemeinsame Zukunft.
